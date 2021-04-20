@@ -16,6 +16,7 @@
 		FAEB8133262E86040018C2AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAEB8132262E86040018C2AE /* Assets.xcassets */; };
 		FAEB8136262E86040018C2AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAEB8135262E86040018C2AE /* Preview Assets.xcassets */; };
 		FAEB8143262E8F6C0018C2AE /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAEB8142262E8F6C0018C2AE /* FruitCardView.swift */; };
+		FAF1ACD4262F2DB000DB081C /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF1ACD3262F2DB000DB081C /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		FAEB8135262E86040018C2AE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FAEB8137262E86040018C2AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FAEB8142262E8F6C0018C2AE /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
+		FAF1ACD3262F2DB000DB081C /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 			children = (
 				FAEB8142262E8F6C0018C2AE /* FruitCardView.swift */,
 				FA38E2C4262E9735009AAA0A /* StartButtonView.swift */,
+				FAF1ACD3262F2DB000DB081C /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				FA48F0B2262F08D4009B1892 /* FruitData.swift in Sources */,
 				FAEB8143262E8F6C0018C2AE /* FruitCardView.swift in Sources */,
+				FAF1ACD4262F2DB000DB081C /* FruitRowView.swift in Sources */,
 				FA38E2C5262E9735009AAA0A /* StartButtonView.swift in Sources */,
 				FAEB8131262E86030018C2AE /* ContentView.swift in Sources */,
 				FA38E2C8262EA254009AAA0A /* OnboardingView.swift in Sources */,
