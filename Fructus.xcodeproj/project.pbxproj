@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA212421263128DE00B7F8E3 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA212420263128DE00B7F8E3 /* SettingsRowView.swift */; };
 		FA38E2C5262E9735009AAA0A /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38E2C4262E9735009AAA0A /* StartButtonView.swift */; };
 		FA38E2C8262EA254009AAA0A /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38E2C7262EA254009AAA0A /* OnboardingView.swift */; };
 		FA48F0AD262F0736009B1892 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA48F0AC262F0736009B1892 /* FruitModel.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA212420263128DE00B7F8E3 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsRowView.swift; path = Fructus/App/SettingsRowView.swift; sourceTree = SOURCE_ROOT; };
 		FA38E2C4262E9735009AAA0A /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		FA38E2C7262EA254009AAA0A /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		FA48F0AC262F0736009B1892 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 		FAEB8141262E8F1E0018C2AE /* View */ = {
 			isa = PBXGroup;
 			children = (
+				FA212420263128DE00B7F8E3 /* SettingsRowView.swift */,
 				FAEB8142262E8F6C0018C2AE /* FruitCardView.swift */,
 				FA38E2C4262E9735009AAA0A /* StartButtonView.swift */,
 				FAF1ACD3262F2DB000DB081C /* FruitRowView.swift */,
@@ -208,6 +211,7 @@
 			files = (
 				FA48F0B2262F08D4009B1892 /* FruitData.swift in Sources */,
 				FA930845262FF9F0002C3382 /* SourceLinkView.swift in Sources */,
+				FA212421263128DE00B7F8E3 /* SettingsRowView.swift in Sources */,
 				FAEB8143262E8F6C0018C2AE /* FruitCardView.swift in Sources */,
 				FAF1ACD4262F2DB000DB081C /* FruitRowView.swift in Sources */,
 				FA38E2C5262E9735009AAA0A /* StartButtonView.swift in Sources */,
